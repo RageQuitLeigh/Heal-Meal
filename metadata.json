@@ -1,0 +1,5 @@
+{
+  "name": "HealMeal: Condition-Safe Recipe Creator",
+  "description": "Generate delicious, safe recipes tailored to specific health conditions like Celiac, Diabetes, AIP, and more.",
+  "requestFramePermissions": []
+}
